@@ -1,0 +1,2 @@
+# php-Captcha-For-From-Validation
+It is generally used to ensure that the user who is signing in is a real person and not a web crawling or an intelligent bot.  The captcha code uses jumbled and slightly distorted characters. The neural networks ie the part of the brain responsible for identifying such jumbled characters has not yet been replicated by a computer based neural network and is limited by the current technology hence it is a good mechanism to identify a real person.
